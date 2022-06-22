@@ -1,0 +1,16 @@
+.results {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	gap: 1ch;
+}
+.results h1 {
+	margin-right: auto;
+}
+
+.optionsSelect {
+	text-align: center;
+	margin: auto;
+	display: block;
+}
